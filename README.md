@@ -2,7 +2,7 @@
 
 六年級社會領域公開課（授課：陳香吟老師｜六一七班｜2026.10.21）的課例研究簡報。
 
-- 線上簡報：開啟本 repo 的 GitHub Pages 網址（`index.html`）
+- 線上簡報：https://sspsapin5566.github.io/slc-whose-festival/ （按「上一頁／下一頁」或鍵盤左右鍵翻頁，手機可左右滑動）
 - 簡報檔：[slides.pptx](slides.pptx)｜[slides.pdf](slides.pdf)
 - 課例分析稿：[analysis.md](analysis.md)
 
